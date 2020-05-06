@@ -1,6 +1,6 @@
-# #100DaysOfCode Log - Round 1 - [Lev Lazinskiy]
+# #100DaysOfCode Log - Round 1 - Lev Lazinskiy
 
-The log of my #100DaysOfCode challenge. Started on [May 5, 2020].
+The log of my #100DaysOfCode challenge. Started on May 5, 2020.
 
 ## Log
 
