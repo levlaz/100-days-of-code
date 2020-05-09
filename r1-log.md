@@ -12,3 +12,6 @@ One of my PRs from last night was merged to freeCodeCamp which was a great way t
 
 ### R1D3 5/7/2020
 I spent too much time on the first project, building a [Tribute Page to Offer Nissim](https://levlaz.org/portfolio/tribute/). However overall I am happy with it. I should have taken screenshots along the way because this thing was a dumpster fire earlier today. The biggest things I was focusing on were properly using semantic HTML tags, and CSS. In terms of CSS, I *think* I finally kind of understand flexbox? I also took advantage of css variables, liner-gradients, and media queries. These are all things that I am not super comfortable with, but I am glad that I got them to work in this project. 
+
+### R1D4 5/8/2020
+I looked at the tribute page from yesterday on my phone and realized that it wasn't fully responsive on a mobile device. I think I am still a bit confused on how media queries and flexbox are supposed to work together. I got a slightly more polished version published today, but still not comfortable with this for now. I think the main issue is that I am trying to be fancy with my two columns. 
