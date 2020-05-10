@@ -15,3 +15,6 @@ I spent too much time on the first project, building a [Tribute Page to Offer Ni
 
 ### R1D4 5/8/2020
 I looked at the tribute page from yesterday on my phone and realized that it wasn't fully responsive on a mobile device. I think I am still a bit confused on how media queries and flexbox are supposed to work together. I got a slightly more polished version published today, but still not comfortable with this for now. I think the main issue is that I am trying to be fancy with my two columns. 
+
+### R1D5 5/9/2020
+I spent the day working on the form project from freeCodeCamp. There are so many [HTML form input types](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input) that I didn't know about. I got stuck trying to add a validation message without Javascript. I'll revisit this in the future. 
