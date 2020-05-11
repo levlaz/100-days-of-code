@@ -18,3 +18,6 @@ I looked at the tribute page from yesterday on my phone and realized that it was
 
 ### R1D5 5/9/2020
 I spent the day working on the [form project](https://levlaz.org/portfolio/form/) from freeCodeCamp. There are so many [HTML form input types](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input) that I didn't know about. I got stuck trying to add a validation message without Javascript. I'll revisit this in the future. I learned that the reason why my mobile responsive stuff wasn't working was due to me not including the [viewport meta tag](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag). I think I've taken it for granted that this appears to be built in to a lot of the frameworks that I've used. 
+
+### R1D6 5/10/2020
+I finished the [product landing page project](https://levlaz.org/portfolio/landing_page/) from freeCodeCamp. In this project I played around with some basic colors and limited myself to 1990s style web colors. It looks a bit cheesy, but I had a lot of fun with this one. I was able to use CSS grid and flexbox together in this one and it is finally starting to click a little bit.
