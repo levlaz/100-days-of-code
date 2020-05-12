@@ -21,3 +21,6 @@ I spent the day working on the [form project](https://levlaz.org/portfolio/form/
 
 ### R1D6 5/10/2020
 I finished the [product landing page project](https://levlaz.org/portfolio/landing_page/) from freeCodeCamp. In this project I played around with some basic colors and limited myself to 1990s style web colors. It looks a bit cheesy, but I had a lot of fun with this one. I was able to use CSS grid and flexbox together in this one and it is finally starting to click a little bit.
+
+### R1D7 5/11/2020
+I finished the [technical documentation page project](https://levlaz.org/portfolio/landing_page/) from freeCodeCamp. In this project I got my sticky sidebar working with CSS grid without resorting to fixed positioning on the sidebar. CSS grid and flexbox are really starting to click with some of these "real-world" projects which feels really good. I'm hoping to wrap up the responsive design course tomorrow with the final project and then move on to the wonderful world of JavaScript.
