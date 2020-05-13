@@ -24,3 +24,6 @@ I finished the [product landing page project](https://levlaz.org/portfolio/landi
 
 ### R1D7 5/11/2020
 I finished the [technical documentation page project](https://levlaz.org/portfolio/docs/) from freeCodeCamp. In this project I got my sticky sidebar working with CSS grid without resorting to fixed positioning on the sidebar. CSS grid and flexbox are really starting to click with some of these "real-world" projects which feels really good. I'm hoping to wrap up the responsive design course tomorrow with the final project and then move on to the wonderful world of JavaScript.
+
+### R1D8 5/12/2020
+I started the final project in the responsive web design course on freeCodeCamp. I played with CSS gradients, and got the basic layout for the portfolio page completed. Tomorrow I will finish this project and be done with the first course on FCC. 
