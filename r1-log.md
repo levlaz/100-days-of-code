@@ -27,3 +27,6 @@ I finished the [technical documentation page project](https://levlaz.org/portfol
 
 ### R1D8 5/12/2020
 I started the final project in the responsive web design course on freeCodeCamp. I played with CSS gradients, and got the basic layout for the portfolio page completed. Tomorrow I will finish this project and be done with the first course on FCC. 
+
+### R1D9 5/13/2020
+I took a short break from FCC to scratch a different itch. I learned about the [relativedelta](https://dateutil.readthedocs.io/en/stable/relativedelta.html) library which makes it easy to get some pretty-ish looking years,months,dates between two dates. This is built into PSQL with the AGE function, but I didn't want my code to depend on a specific DB implementation. The added bonus is that I got to use the ternary operator in Python to print out the dates. I should write a brief post about this because my Googling didn't get me to far initially. 
