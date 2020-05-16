@@ -33,3 +33,6 @@ I took a short break from FCC to scratch a different itch. I learned about the [
 
 ### R1D10 5/14/2020
 I wrapped up the responsive web design module on freeCodeCamp. Final project is a [portfolio](https://levlaz.org/portfolio/) that showcases all of the other projects I've worked on so far. Feeling pretty motivated. Looking forward to diving (back) into JS tomorrow. 
+
+### R1D11 5/15/2020
+I finished the basic JS module on FCC. For the most part this was a review of things that I already knew. The things that I found interesting in this course were case/switch, ternary operations, and recursion. Recursion is something that I've always struggled with, and today was no exception. 
