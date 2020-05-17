@@ -36,3 +36,6 @@ I wrapped up the responsive web design module on freeCodeCamp. Final project is 
 
 ### R1D11 5/15/2020
 I finished the basic JS module on FCC. For the most part this was a review of things that I already knew. The things that I found interesting in this course were case/switch, ternary operations, and recursion. Recursion is something that I've always struggled with, and today was no exception. 
+
+### R1D12 5/16/2020
+I finished the ES6 module on FCC today. It was a nice overview of the new featurs that ES6 offers. Most interesting things for me were new types of variables, arrow functions, destructuring, modules, and promises. 
