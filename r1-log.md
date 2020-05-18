@@ -39,3 +39,6 @@ I finished the basic JS module on FCC. For the most part this was a review of th
 
 ### R1D12 5/16/2020
 I finished the ES6 module on FCC today. It was a nice overview of the new featurs that ES6 offers. Most interesting things for me were new types of variables, arrow functions, destructuring, modules, and promises. 
+
+### R1D13 5/17/2020 
+I finished the regex course on FCC. This one was one of the trickier courses that I've done so far. I think I am miles away from where I started with Regex many years ago, but its always an area that I struggle with. The [Online Regex Tester](https://regex101.com/) is a godsend to test out and understand what is happening with regex. 
