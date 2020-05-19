@@ -42,3 +42,6 @@ I finished the ES6 module on FCC today. It was a nice overview of the new featur
 
 ### R1D13 5/17/2020 
 I finished the regex course on FCC. This one was one of the trickier courses that I've done so far. I think I am miles away from where I started with Regex many years ago, but its always an area that I struggle with. The [Online Regex Tester](https://regex101.com/) is a godsend to test out and understand what is happening with regex. 
+
+### R1D14 5/18/2020
+I finished the debugging module and the first half of the data structures module on FCC. Mostly learned about all of the various ways to interact with Arrays. 
