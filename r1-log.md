@@ -52,3 +52,5 @@ I finished the data structures module and started working through the basic algo
 ### R1D16 5/20/2020
 I kept working through the basic algorithms module, but this one is kind of a slog.
 
+### R1D17 5/21/2020
+I took a break from JS and used the things I learned in the responsive web design course to build a very boring frontend for my Django version of ManagerManager. I think I am going to spend a few days tinkering with ManagerManager before diving back into Javascript. 
