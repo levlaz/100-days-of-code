@@ -45,3 +45,10 @@ I finished the regex course on FCC. This one was one of the trickier courses tha
 
 ### R1D14 5/18/2020
 I finished the debugging module and the first half of the data structures module on FCC. Mostly learned about all of the various ways to interact with Arrays. 
+
+### R1D15 5/19/2020
+I finished the data structures module and started working through the basic algorithms module.  
+
+### R1D16 5/20/2020
+I kept working through the basic algorithms module, but this one is kind of a slog.
+
