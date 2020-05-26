@@ -61,4 +61,8 @@ I spent some more time building out the basic structure of ManagerManager.
 ### R1D19 5/23/2020
 I wrote little code today, but spent a large portion of my time pouring through the Django documentation. 
 
+### R1D20 5/24/2020
+Used list comprehension, and played around with more generic Django views. Also started to use QuerySets properly and figured out how to report around self-refferential relationships. Overall, I got a lot done, but I get the sinking feeling that I am not doing things "the right way". 
 
+### R1D21 5/25/2020
+I migrated ManagerManager from sqlite to postgresql and deployed it to run on a server so I can access it from the outside world. I don't trust my own security enough to put it out in the world outright, so I am still accessing this via tunnel. 
