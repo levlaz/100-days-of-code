@@ -66,3 +66,6 @@ Used list comprehension, and played around with more generic Django views. Also 
 
 ### R1D21 5/25/2020
 I migrated ManagerManager from sqlite to postgresql and deployed it to run on a server so I can access it from the outside world. I don't trust my own security enough to put it out in the world outright, so I am still accessing this via tunnel. 
+
+### R1D22 5/26/2020
+I added a bunch more models to ManagerManager and started working with more generic views. Generic views are a great concept and remove a lot of the boilerplate. They are not necessarily simple though. Its arguably a mistake to jump straight into class-based/generic views without fully understanding the underlying mechanics. However, I feel OK just pushing through. This is my 2nd or 3rd attempt at making ManagerManager work and I am more motivated by "good enough" software than "good software" at this point. 
