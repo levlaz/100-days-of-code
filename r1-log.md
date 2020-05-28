@@ -69,3 +69,6 @@ I migrated ManagerManager from sqlite to postgresql and deployed it to run on a 
 
 ### R1D22 5/26/2020
 I added a bunch more models to ManagerManager and started working with more generic views. Generic views are a great concept and remove a lot of the boilerplate. They are not necessarily simple though. Its arguably a mistake to jump straight into class-based/generic views without fully understanding the underlying mechanics. However, I feel OK just pushing through. This is my 2nd or 3rd attempt at making ManagerManager work and I am more motivated by "good enough" software than "good software" at this point. 
+
+### R1D23 5/27/2020
+I went back to the JS course on FreeCodeCamp and finally finished it. It was so helpful to step away from it for a few days because I began to feel stuck and unmotivated. I came back with a fresh set of eyes and brain after working on the django app for a few days and knocked out the rest of the course. The [Arry.prototype.splice()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice) method is a bit tricky, and I ran into a bit of trouble with it, but after using it for a few of the challenges I think I finally got the hang of things. 
